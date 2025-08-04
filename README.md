@@ -22,7 +22,7 @@ Finally, a production-like simulation environment was designed with synthetic da
 Two options are provided to obtain the project:  
 - Clone the repository via command line using:
 - Download directly from GitHub at:
-#[https://github.com/ignaciomajo/proyecto_TelecomX_ML](**********************)  
+#[********************](**********************)  
 After downloading, extract the .zip file into the desired directory.
 
 ## 3. Project Stages 📝
